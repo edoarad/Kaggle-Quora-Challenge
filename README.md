@@ -5,4 +5,6 @@ Kaggle Kernel:                              https://www.kaggle.com/edoarad/quora
 
 Stanford course:                            http://cs224n.stanford.edu/,  http://www.infocobuild.com/education/audio-video-courses/computer-science/cs224n-natural-language-processing.html
 
+Google Cloud platform:                      https://cloud.google.com/pricing/free
+
 
